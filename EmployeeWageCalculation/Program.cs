@@ -6,3 +6,5 @@ employee.PartTime();
 employee.CaseStatement();
 employee.MonthWages();
 employee.TotalWorkinDays();
+employee.ClassMethod();
+employee.MultipleCompany();
